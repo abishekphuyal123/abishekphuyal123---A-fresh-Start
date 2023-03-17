@@ -6,3 +6,4 @@ months = (90-age) * 12
 weeks = (90 - age)*52
 Days = (90 - age)*365
 print(f"You have {months} months, {weeks} weeks, and {Days} days to live in this world.")
+print("Hello World.")

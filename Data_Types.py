@@ -8,3 +8,7 @@ first_digit = int(number[0])
 second_digit = int(number[1])
 add = first_digit + second_digit
 print(f"{first_digit} + {second_digit} = {add}")
+
+# Here is a second commit, I am trying to understand how to work on github. 
+
+Print("Hello Github. ")

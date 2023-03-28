@@ -12,4 +12,4 @@ print()
 def greet_with_name(name): # Name is the parameter
     print(f"Hello, {name}")
     print(f"How are you, {name}")
-greet_with_name("Abishek") # The given supplied string "Abishek" is the Argument.   
+greet_with_name("Abishek") # The given supplied string "Abishek" is known as Argument. 

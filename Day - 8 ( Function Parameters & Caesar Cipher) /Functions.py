@@ -9,7 +9,7 @@ print()
 print()
 
 # This is a function with input, 
-def greet_with_name(name):
+def greet_with_name(name): # Name is the parameter
     print(f"Hello, {name}")
     print(f"How are you, {name}")
-greet_with_name("Abishek")
+greet_with_name("Abishek") # The given supplied string "Abishek" is the Argument.   

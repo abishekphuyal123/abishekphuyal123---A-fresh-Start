@@ -22,4 +22,4 @@ def caesar(plain_text, shift_amount, process):
 
 caesar(plain_text=text,shift_amount=shift,process=direction)
 
-# This is a simple caesar cipher program, using for loop and logical operations. 
+# A simple Caesar Cipher program, using for loops and logical operations in python. 

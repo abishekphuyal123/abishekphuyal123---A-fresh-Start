@@ -4,7 +4,7 @@ student_scores["Tom"] = 81
 student_scores["David"] = 74
 student_scores["Michael"] = 65
 
-# Now, create a new dictionary named student_grades. 
+# Now, create a new dictionary named student_grades.
 student_grades = {}
 
 for i in student_scores:
